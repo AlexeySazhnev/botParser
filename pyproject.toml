@@ -1,9 +1,0 @@
-[tool.mypy]
-warn_unused_ignores = true
-pretty = true
-show_absolute_path = true
-hide_error_codes = false
-show_error_context = true
-strict = true
-warn_unreachable = true
-warn_no_return = true
